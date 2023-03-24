@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987063112068",
+    "project_id": "snippets-cca44",
+    "storage_bucket": "snippets-cca44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987063112068:android:fd0495b29ffd62d3ff8dd1",
+        "android_client_info": {
+          "package_name": "com.safar.snippets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987063112068-4fa67sdph7tgnfn6q79bi6ssp4jrnr4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3_f_nUHfsHiqL-_9sq39uHAx90ex5Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987063112068-4fa67sdph7tgnfn6q79bi6ssp4jrnr4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
